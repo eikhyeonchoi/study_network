@@ -5,7 +5,7 @@ Wireless Access Vehicular Environments
 ```
 
 ## IEEE802.11p
-![WAVE](./img/WAVE.PNG)
+![WAVE](../img/WAVE.PNG)
 ```
 Overview
 IEEE 802.11p is based on:
